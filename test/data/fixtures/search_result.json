@@ -1,0 +1,177 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qhWW1jBBYnu2VejmboFOFCRllU0\"",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 238,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VIhjEpx2sXblNp7HQ5nVIkEJzjw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KjE2IDphA_U"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-27T17:00:03.000Z",
+                "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+                "title": "Flutter TDD Clean Architecture Course [1] – Explanation &amp; Project Structure",
+                "description": "Learn from the written tutorial https://resocoder.com/flutter-tdd-clean-architecture-ep1      Do you write good code? Find out now!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KjE2IDphA_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KjE2IDphA_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KjE2IDphA_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Reso Coder",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/M40Acs5N1bUKXSe1E-uE2PB3B7I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yDaaM3u389I"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-21T19:09:25.000Z",
+                "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+                "title": "Android Kotlin: Forecast App 01 - Navigation &amp; App Foundation - MVVM Tutorial Course",
+                "description": "Get the code from this tutorial https://resocoder.com/forecast-app-01 Start saving time now by planning weekly with Week Sweep: http://bit.ly/2Jf3QA0 With ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yDaaM3u389I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yDaaM3u389I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yDaaM3u389I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Reso Coder",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Ss-30yIJN7zpT9VpxOucHf6r-OE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cmuxwUyxyws"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-06T19:32:37.000Z",
+                "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+                "title": "The PROVEN Way to Get Freelance Clients Quickly as a Flutter App Developer",
+                "description": "Getting clients can be a time consuming and frustrating ordeal. Does it have to be that way though? What if you could get clients contacting you instead of you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cmuxwUyxyws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cmuxwUyxyws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cmuxwUyxyws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Reso Coder",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aBxkNDa-DinLN1SfdoWVt_-qr1A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-bKTdlkWp8E"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-02T18:00:00.000Z",
+                "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+                "title": "Create a Complex RecyclerView Quickly with Groupie Library - Android Kotlin RecyclerView Tutorial",
+                "description": "RecyclerView has become a standard element in any kind of Android app. It's fast and efficient - at least for the user. For developers, however, it's an entirely ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-bKTdlkWp8E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-bKTdlkWp8E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-bKTdlkWp8E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Reso Coder",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mYJ8-NBYrqUZfWdLR502cNz7fPo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LeLrsnHeCZY"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-09T19:31:47.000Z",
+                "channelId": "UCSIvrn68cUk8CS8MbtBmBkA",
+                "title": "Flutter BLoC Library Tutorial - Simple BLoC Pattern Solution",
+                "description": "Get the code from this tutorial https://resocoder.com/flutter-bloc-library      Do you write good code? Find out now https://resocoder.com/good-code-quiz ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LeLrsnHeCZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LeLrsnHeCZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LeLrsnHeCZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Reso Coder",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

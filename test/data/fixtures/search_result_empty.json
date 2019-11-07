@@ -1,0 +1,10 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qhWW1jBBYnu2VejmboFOFCRllU0\"",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 0,
+        "resultsPerPage": 5
+    },
+    "items": []
+}
